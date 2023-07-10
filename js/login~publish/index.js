@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack=self.webpackChunkwebpack||[]).push([[768],{773:e=>{e.exports={myAlert:function(e,s){const a=document.querySelector(".alert");a.classList.add(e?"alert-success":"alert-danger"),a.innerHTML=s,a.classList.add("show"),setTimeout((()=>{a.classList.remove(e?"alert-success":"alert-danger"),a.innerHTML="",a.classList.remove("show")}),2e3)}}}}]);
